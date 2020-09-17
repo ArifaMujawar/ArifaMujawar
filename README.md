@@ -1,6 +1,6 @@
 ### Hello 👋
 
- I am Arifa, a Full-Stack developer from Finland.
+ I am Arifa, a Full-Stack developer from Finland.<img src="https://user-images.githubusercontent.com/29464058/93450532-c503a500-f8de-11ea-842b-3cf266c2c37e.png" width="200" />
 
  You can see what I am currently up to on my [personal website](https://arifa.dev)
 
