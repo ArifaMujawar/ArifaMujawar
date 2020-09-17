@@ -1,6 +1,6 @@
 ### Hello 👋
 
- <img src="https://user-images.githubusercontent.com/29464058/93453381-4872c580-f8e2-11ea-9c56-4cb00d3be913.gif" width="800" height="500" />
+ <img src="https://user-images.githubusercontent.com/29464058/93455619-465e3600-f8e5-11ea-8ba2-fa17a4b98f94.gif" width="800" height="500" />
 
  You can see what I am currently up to on my [personal website](https://arifa.dev)
  
